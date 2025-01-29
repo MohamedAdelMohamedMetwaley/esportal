@@ -98,7 +98,7 @@ const MainLayout = () => {
               <div className="space-y-6">
                 <div className="relative h-64 bg-gray-200 rounded-lg overflow-hidden">
                   <img
-                    src="/api/placeholder/800/400"
+                    src="https://placehold.co/800x400"
                     alt="Featured news"
                     className="object-cover w-full h-full"
                   />
@@ -125,7 +125,7 @@ const MainLayout = () => {
                     </h3>
                     <div className="aspect-video bg-gray-200 rounded-lg">
                       <img
-                        src="/api/placeholder/800/450"
+                        src="https://placehold.co/800x450"
                         alt="Interview video thumbnail"
                         className="w-full h-full object-cover rounded-lg"
                       />
